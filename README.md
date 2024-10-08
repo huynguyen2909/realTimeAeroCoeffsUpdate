@@ -13,7 +13,7 @@ mở file config.cfg lên, sửa/thêm vào:
 `SCREEN_OUTPUT=(INNER_ITER, LIFT, DRAG)`
 
 
-HISTORY_OUTPUT=(INNER_ITER, LIFT, DRAG)`
+`HISTORY_OUTPUT=(INNER_ITER, LIFT, DRAG)`
 
 
 chạy `./realTimeAeroCoeffsUpdate.py`
